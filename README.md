@@ -1,1 +1,2 @@
-# final-se-project-0
+# Software-Engineering-Project
+dr dalia project about event-management system
